@@ -1,4 +1,4 @@
-# Password_Generater-Checker
+# Password_Generator-Checker
 This project generates strong, random passwords and evaluates their strength in real time. It checks length, uppercase/lowercase letters, numbers, and special characters to ensure maximum security. Simple, fast, and user-friendly—perfect for improving online account protection and learning about password security best practices.
 🔐 Password Generator & Strength Checker
 
@@ -43,7 +43,7 @@ Platform: Linux / Unix
 1️⃣ Clone the Repository
 git clone https://github.com/DefaultHack/Password_Generater-Checker.git
 
-cd Password_Generater-Checker
+cd Password_Generator-Checker
 
 2️⃣ Compile C Programs
 Smart_password_generate.sh
